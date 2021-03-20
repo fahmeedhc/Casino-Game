@@ -1,0 +1,2 @@
+E:\PROJECTS\C++ Project\Casino Game\Debug\Casino Game.exe
+E:\PROJECTS\C++ Project\Casino Game\Debug\Casino Game.pdb
